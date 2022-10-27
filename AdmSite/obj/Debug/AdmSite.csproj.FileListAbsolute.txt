@@ -1,0 +1,24 @@
+C:\Users\Lab\Desktop\AdmSite\AdmSite\bin\Debug\AdmSite.exe.config
+C:\Users\Lab\Desktop\AdmSite\AdmSite\bin\Debug\AdmSite.exe
+C:\Users\Lab\Desktop\AdmSite\AdmSite\bin\Debug\AdmSite.pdb
+C:\Users\Lab\Desktop\AdmSite\AdmSite\obj\Debug\AdmSite.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\AdmSite\AdmSite\obj\Debug\AdmSite.Form1.resources
+C:\Users\Lab\Desktop\AdmSite\AdmSite\obj\Debug\AdmSite.FrmCadUsuario.resources
+C:\Users\Lab\Desktop\AdmSite\AdmSite\obj\Debug\AdmSite.Properties.Resources.resources
+C:\Users\Lab\Desktop\AdmSite\AdmSite\obj\Debug\AdmSite.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\AdmSite\AdmSite\obj\Debug\AdmSite.exe
+C:\Users\Lab\Desktop\AdmSite\AdmSite\obj\Debug\AdmSite.pdb
+F:\[deleted all]\C\AdmSite\AdmSite\obj\Debug\AdmSite.Form1.resources
+F:\[deleted all]\C\AdmSite\AdmSite\obj\Debug\AdmSite.FrmCadUsuario.resources
+F:\[deleted all]\C\AdmSite\AdmSite\obj\Debug\AdmSite.FrmUsuario.resources
+F:\[deleted all]\C\AdmSite\AdmSite\obj\Debug\AdmSite.Properties.Resources.resources
+F:\[deleted all]\C\AdmSite\AdmSite\obj\Debug\AdmSite.csproj.GenerateResource.Cache
+F:\[deleted all]\C\AdmSite\AdmSite\bin\Debug\AdmSite.exe.config
+F:\[deleted all]\C\AdmSite\AdmSite\bin\Debug\AdmSite.exe
+F:\[deleted all]\C\AdmSite\AdmSite\bin\Debug\AdmSite.pdb
+F:\[deleted all]\C\AdmSite\AdmSite\obj\Debug\AdmSite.exe
+F:\[deleted all]\C\AdmSite\AdmSite\obj\Debug\AdmSite.pdb
+F:\[deleted all]\C\AdmSite\AdmSite\obj\Debug\AdmSite.csprojResolveAssemblyReference.cache
+E:\[deleted all]\C\AdmSite\AdmSite\bin\Debug\AdmSite.exe.config
+E:\[deleted all]\C\AdmSite\AdmSite\obj\Debug\AdmSite.exe
+E:\[deleted all]\C\AdmSite\AdmSite\obj\Debug\AdmSite.pdb
